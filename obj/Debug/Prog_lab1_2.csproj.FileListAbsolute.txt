@@ -1,0 +1,33 @@
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe.config
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\bin\Debug\Prog_lab1_2.pdb
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.AssemblyReference.cache
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.SuggestedBindingRedirects.cache
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.Form1.resources
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.Properties.Resources.resources
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.GenerateResource.cache
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.CoreCompileInputs.cache
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.exe
+E:\KemSU\Visual Studio\Repos\Prog_lab1_2\Prog_lab1_2\obj\Debug\Prog_lab1_2.pdb
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe.config
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\bin\Debug\Prog_lab1_2.pdb
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.Form1.resources
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.Properties.Resources.resources
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.GenerateResource.cache
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.exe
+C:\Users\rusla\Desktop\prog_lab1_2-master\Prog_lab1_2\obj\Debug\Prog_lab1_2.pdb
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe.config
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\bin\Debug\Prog_lab1_2.exe
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\bin\Debug\Prog_lab1_2.pdb
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.AssemblyReference.cache
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.SuggestedBindingRedirects.cache
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.Form1.resources
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.Properties.Resources.resources
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.GenerateResource.cache
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.csproj.CoreCompileInputs.cache
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.exe
+E:\KemSU\VisualStudio\Repos\Prog\Prog_lab1_2\obj\Debug\Prog_lab1_2.pdb
